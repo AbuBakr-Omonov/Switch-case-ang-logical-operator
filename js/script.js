@@ -341,6 +341,7 @@
 }
 
 {
+    //6-masala
     let harorat = 15;
     if (harorat > 30) {
         console.log("Juda issiq, soyada dam oling!");
